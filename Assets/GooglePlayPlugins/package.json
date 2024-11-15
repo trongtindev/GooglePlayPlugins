@@ -1,7 +1,7 @@
 {
   "name": "com.google.plugins",
-  "displayName": "GooglePlayPlugins",
-  "description": "GooglePlayPlugins",
+  "displayName": "Google Play Plugins",
+  "description": "com.google.play.appupdate (1.8.3), com.google.play.common (1.9.2), com.google.play.core (1.8.5), com.google.play.integrity (1.4.0), com.google.play.review (1.8.3)",
   "version": "1.0.0",
   "unity": "2017.4",
   "author": {
